@@ -1,0 +1,16 @@
+[
+    {"id":1,
+    "title":"teclado"
+    ,"description":"teclado gamer"
+    ,"price":11000
+    ,"thumbnail":"imagen no disponible"
+    ,"code":"1010"
+    ,"stock":"10"},
+    {"id":2,
+    "title":"mouse"
+    ,"description":"mouse gamer"
+    ,"price":8000
+    ,"thumbnail":"imagen no disponible"
+    ,"code":"1011"
+    ,"stock":"10"}
+]
